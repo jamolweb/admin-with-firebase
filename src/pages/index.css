@@ -1,0 +1,17 @@
+body {
+    overflow-x: hidden;
+}
+.edit-product-thumbnail {
+    z-index: 10000;
+    cursor: pointer;
+    width: 70px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    position: static;
+    left: 43%;
+    bottom: 0;
+    justify-content: center;
+    background: #3333333f;
+    border-radius: 10px;
+}
